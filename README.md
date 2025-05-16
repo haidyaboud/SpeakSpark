@@ -1,7 +1,5 @@
 # SpeakSpark
 
-# SpeakSpark
-
 SpeakSpark is a Flutter-based mobile application designed to help users learn Japanese through an interactive and user-friendly interface. The app supports light and dark themes, phone verification, and a seamless onboarding process.
 
 ## Features

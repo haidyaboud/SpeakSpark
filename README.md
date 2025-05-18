@@ -1,22 +1,16 @@
-# SpeakSpark
+# mobileproject
 
-SpeakSpark is a Flutter-based mobile application designed to help users learn Japanese through an interactive and user-friendly interface. The app supports light and dark themes, phone verification, and a seamless onboarding process.
-
-## Features
-- User authentication (Sign Up, Login)
-- Phone number verification
-- Theme switching (Light/Dark mode)
-- Japanese learning modules
-- Responsive UI with Flutter's Material Design
+A new Flutter project.
 
 ## Getting Started
 
-### Prerequisites
-- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
-- Dart: Included with Flutter
-- An IDE like VS Code or Android Studio
+This project is a starting point for a Flutter application.
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/speakspark.git
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
